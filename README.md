@@ -1,4 +1,8 @@
-![GmailGIF](https://github.com/user-attachments/assets/0d02d912-2f2d-4cbc-bff3-62bcbac67af6)
+![WiiChickenGoogleGIF](https://github.com/user-attachments/assets/27d72e89-0d5f-4477-a361-4fe9b75a45cb)
 
 
-Code:
+Script to use for the google sheet
+
+
+
+
