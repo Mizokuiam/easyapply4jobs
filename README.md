@@ -1,6 +1,8 @@
 ![YT Thumbnail](https://github.com/user-attachments/assets/21c1d253-b437-4fbc-a792-2d0a55f767ec)
 
 لكود:
+
+
 function generateAndSendEmails() {
   const sheet = SpreadsheetApp.getActiveSpreadsheet();
   const appProfileSheet = sheet.getSheetByName("App_Profile");
