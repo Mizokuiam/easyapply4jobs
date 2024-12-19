@@ -42,4 +42,4 @@ Ensure you have the necessary columns: **Applicant Name**, **Email Address**, **
 ### Installation & Usage  
 🛠️ **Clone the Repository**:  
 ```bash  
-git clone code.gs 
+git clone https://github.com/Mizokuiam/easyapply4jobs/blob/main/code.gs
