@@ -1,6 +1,3 @@
-# Create the README.md file with the provided content
-
-readme_content = """
 # Job Application Automation with Google Sheets and Google Apps Script  
 ![YT Thumbnail](https://github.com/user-attachments/assets/21c1d253-b437-4fbc-a792-2d0a55f767ec)  
 💼 **Job Application Automation**  
